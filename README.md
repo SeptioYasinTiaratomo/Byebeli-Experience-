@@ -22,4 +22,8 @@ Tujuannya adalah untuk mempermudah pengelolaan penyewaan sekaligus monitoring be
 2. Import database MySQL dari folder `database/` (jika tersedia).  
 3. Buka project di **NetBeans IDE**.  
 4. Sesuaikan konfigurasi koneksi database di `Database.java`.  
-5. Jalankan aplikasi.  
+5. Jalankan aplikasi.
+
+## 👀 Preview  
+Tampilan aplikasi:
+https://drive.google.com/file/d/1vs43YXaIgPUQEISC5ds28qI04hXbe-zD/view?usp=sharing
